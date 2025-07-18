@@ -29,4 +29,4 @@ This project was developed as part of Module 5 of the Microsoft AI Skills Challe
 
 ## Reference
 
-• Microsoft Learn: [https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html](https://learn.microsoft.com/en-gb/collections/50wkaqtq50egz3?ref=collection&listId=60yka7t2o8od52&sharingId=6A9F03F25E12DA9E&wt.mc_id=aiskillsfest_msftlearn_training_wwl_challenge_tech)
+• Microsoft Learn: https://learn.microsoft.com/en-gb/collections/50wkaqtq50egz3?ref=collection&listId=60yka7t2o8od52&sharingId=6A9F03F25E12DA9E&wt.mc_id=aiskillsfest_msftlearn_training_wwl_challenge_tech
